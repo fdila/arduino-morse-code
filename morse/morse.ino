@@ -173,33 +173,73 @@ void loop(){
       pauseWord();
     }
     else if (letter == '0'){
+      dash();
+      dash();
+      dash();
+      dash();
+      dash();
     }
     else if (letter == '1'){
-      
+      dot();
+      dash();
+      dash();
+      dash();
+      dash();
     }
     else if (letter == '2'){
-      
+      dot();
+      dot();
+      dash();
+      dash();
+      dash();
     }
     else if (letter == '3'){
-      
+      dot();
+      dot();
+      dot();
+      dash();
+      dash();
     }
     else if (letter == '4'){
-      
+      dot();
+      dot();
+      dot();
+      dot();
+      dash();
     }
     else if (letter == '5'){
-      
+      dot();
+      dot();
+      dot();
+      dot();
     }
     else if (letter == '6'){
-      
+      dash();
+      dot();
+      dot();
+      dot();
+      dot();
     }
     else if (letter == '7'){
-      
+      dash();
+      dash();
+      dot();
+      dot();
+      dot();
     }
     else if (letter == '8'){
-      
+      dash();
+      dash();
+      dash();
+      dot();
+      dot();
     }
     else if (letter == '9'){
-      
+      dash();
+      dash();
+      dash();
+      dash();
+      dot();
     }
     pauseTwoLetters();
   }
